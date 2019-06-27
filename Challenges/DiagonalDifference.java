@@ -3,7 +3,7 @@ package Challenges;
 public class DiagonalDifference {
 
     static int diagonalDifference(int[][] arr) {
-        //find the abs diff btw the diagnals of a square 2D array (matrix)
+        //find the abs diff btw the diagonals of a square 2D array (matrix)
 
         int result = 0;
         int sumTopLeft = 0;
